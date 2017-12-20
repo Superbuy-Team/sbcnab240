@@ -1,0 +1,2 @@
+include sbcnab240/bancos/*.json
+global-exclude *.py[co]
